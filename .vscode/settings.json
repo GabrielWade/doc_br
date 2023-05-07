@@ -1,0 +1,10 @@
+{
+    "python.poetryPath": "venv/Scripts/python",
+    "code-runner.executorMap": {
+        "python": "venv/Scripts/python"
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
+}
